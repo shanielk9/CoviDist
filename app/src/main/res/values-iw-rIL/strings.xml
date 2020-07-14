@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoviDist</string>
+    <string name="Headline">ברוכים הבאים</string>
+    <string name="PersonalBtn">תפריט אישי</string>
+    <string name="FamilyBtn">תפריט משפחתי</string>
+    <string name="CurrentLocationTxt">מיקום נוכחי</string>
+    <string name="UpdateDistTxt">עדכון מרחק</string>
+    <string name="SetHomeTxt">הגדר את מיקום הבית</string>
+    <string name="AddMemberTxt">הוספת בן משפחה</string>
+    <string name="DeleteMemberTxt">מחק בן משפחה</string>
+    <string name="FindMemberTxt">מצא בן משפחה</string>
+    <string name="title_activity_map">מפה</string>
+    <string name="updateDistanceHint">הכנס מרחק מותר</string>
+    <string name="updateDistanceHeadline">עדכן מרחק</string>
+    <string name="updateBtn">עדכן</string>
+    <string name="setHomeLocationHeadline">הגדרת כתובת הבית</string>
+    <string name="chooseAddressHint">נא לבחור מיקום מהמפה</string>
+    <string name="chooseBtnText">בחר מיקום מתוך המפה</string>
+    <string name="giveLocationToast">יש לאשר גישה למיקום.</string>
+    <string name="Cancel">ביטול</string>
+    <string name="open_location_settings">הגדרות מיקום</string>
+    <string name="Ok">אישור</string>
+    <string name="PermissionGranted">הרשאה אושרה</string>
+    <string name="PermissionDenied">הרשאה נדחתה</string>
+    <string name="allowPermissions">יש לאשר הרשאות גישה.</string>
+    <string name="SignOutBtn">התנתק</string>
+    <string name="chooseLocationMsg">האם ברצונך לבחור במיקום זה?</string>
+    <string name="chooseSnackBtn">בחר</string>
+    <string name="notificationTitle">אזהרת חריגת מרחק!</string>
+    <string name="notificationText">אותרה חריגת מרחק! נא להתקרב לבית!!!</string>
+    <string name="channel_name">חריגת מרחק</string>
+    <string name="channel_description">התראות על חריגת מרחק</string>
+    <string name="entry_logo_text">השאר בבית, השאר בטוח</string>
+</resources>
