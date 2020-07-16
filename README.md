@@ -1,7 +1,15 @@
 # CoviDist
-## Android Application developed as part of GIS course using android studio, Facebook authentication and FireBase.
+## Android Application developed as part of GIS course using android studio.
 
 **Watch app video:** https://youtu.be/9O1qC11D0Og
+
+#### Main Features:
+* Integration with Google Maps API.
+* Using Google Maps API to draw on map.
+* Firebase authentication.
+* Firebase Realtime-Database.
+* Facebook and Email Sign In.
+* Using device common intents and permissions.
 
 **ScreenShots:**
 
