@@ -1,6 +1,10 @@
 # CoviDist
 ## Android Application developed as part of GIS course using android studio.
 
+The app provides a simple user interface, which allows the user when it exceeds the allowable roaming range.
+You need to fill in the details of your home address and the allowable range.
+The app will send you a push notification if you exceed the range.
+
 **Watch app video:** https://youtu.be/9O1qC11D0Og
 
 #### Main Features:
@@ -10,6 +14,7 @@
 * Firebase Realtime-Database.
 * Facebook and Email Sign In.
 * Using device common intents and permissions.
+* Push notification.
 
 **ScreenShots:**
 
